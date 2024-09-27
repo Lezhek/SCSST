@@ -18,3 +18,7 @@ Uploading save file:
 
 
 ![My GIF](https://github.com/Lezhek/SCSST/blob/main/Upload.gif?raw=true)
+
+
+If you want to compile the code yourself, please refer to the [wiki](https://github.com/Lezhek/SCSST/wiki).
+
