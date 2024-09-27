@@ -1,6 +1,9 @@
 # SnowRunner Coop Save Sync Tool
 
-[**Download**](https://github.com/Lezhek/SCSST/releases)
+# [Download](https://github.com/Lezhek/SCSST/releases)
+I provide my own server for file hosting in already compiled file.
+
+
 
 **Turn off Steam cloud if you are downloading save files**
 
